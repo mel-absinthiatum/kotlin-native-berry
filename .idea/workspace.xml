@@ -2,27 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4982f96d-e84e-4871-b172-f6e1b2236719" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidAndroidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidAndroidTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidAndroidTestDebug.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidAndroidTestDebug.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidDebug.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidDebug.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidMain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidRelease.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidRelease.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidTestDebug.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidTestDebug.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidTestRelease.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/kotlin-native-berry.app.androidTestRelease.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/kotlin-native-berry.app.commonMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/kotlin-native-berry.app.commonMain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/kotlin-native-berry.app.commonTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/kotlin-native-berry.app.commonTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/kotlin-native-berry.app.iosTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/kotlin-native-berry.app.iosTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iosApp/iosApp.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/iosApp/iosApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iosApp/iosApp.xcodeproj/project.xcworkspace/xcuserdata/nadezhdasavchenko.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/iosApp/iosApp.xcodeproj/project.xcworkspace/xcuserdata/nadezhdasavchenko.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/app/.gradle/" />
@@ -110,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -243,12 +229,12 @@
       <workItem from="1570694465695" duration="545000" />
       <workItem from="1570705529383" duration="573000" />
       <workItem from="1570707832694" duration="3932000" />
-      <workItem from="1570729378337" duration="752000" />
+      <workItem from="1570729378337" duration="1009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7478000" />
+    <option name="totallyTimeSpent" value="7735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -317,7 +303,7 @@
     <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
