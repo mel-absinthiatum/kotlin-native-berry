@@ -87,10 +87,9 @@ kotlin {
         		implementation kotlin('test-annotations-common')
             }
         }
-        androidMain {
+        main {
             dependencies {
                 implementation 'org.jetbrains.kotlin:kotlin-stdlib'
-                implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutine_version"
                 implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutine_version"
                 implementation "org.jetbrains.kotlinx:kotlinx-serialization-runtime:$serializer_version"
                 implementation "io.ktor:ktor-client-android:$ktor_version"
