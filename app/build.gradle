@@ -13,6 +13,9 @@ apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlinx-serialization'
 
 android {
+    lintOptions{
+        disable "GoogleAppIndexingWarning", "MissingApplicationIcon", "OldTargetApi"
+    }
     packagingOptions {
         exclude 'META-INF/atomicfu.kotlin_module'
         exclude 'META-INF/kotlinx-io.kotlin_module'
