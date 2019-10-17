@@ -1,4 +1,4 @@
-package sample
+package com.melabsinthiatum
 
 actual class Sample {
     actual fun checkMe() = 7

@@ -1,4 +1,4 @@
-package sample
+package com.melabsinthiatum
 
 import kotlin.test.Test
 import kotlin.test.assertTrue

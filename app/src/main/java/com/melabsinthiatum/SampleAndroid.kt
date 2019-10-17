@@ -1,4 +1,4 @@
-package sample
+package com.melabsinthiatum
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
@@ -12,7 +12,7 @@ actual object Platform {
     actual val name: String = "Android"
 }
 
-class MainActivity : AppCompatActivity() {
+class MainActivity7 : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

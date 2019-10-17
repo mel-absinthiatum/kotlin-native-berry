@@ -1,4 +1,4 @@
-package sample
+package com.melabsinthiatum
 
 expect class Sample() {
     fun checkMe(): Int
