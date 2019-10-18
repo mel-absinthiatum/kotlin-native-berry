@@ -1,4 +1,4 @@
-package com.raywenderlich.pokelist.shared
+package com.melabsinthiatum.shared
 
 import kotlinx.cinterop.*
 import platform.Foundation.NSData

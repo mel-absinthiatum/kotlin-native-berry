@@ -1,4 +1,4 @@
-package com.raywenderlich.pokelist.shared
+package com.melabsinthiatum.shared
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
