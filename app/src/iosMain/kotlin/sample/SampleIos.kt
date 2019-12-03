@@ -7,3 +7,5 @@ actual class Sample {
 actual object Platform {
     actual val name: String = "iOS"
 }
+
+actual typealias Platform2 = Platform

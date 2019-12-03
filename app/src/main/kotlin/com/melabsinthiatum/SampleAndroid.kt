@@ -1,7 +1,7 @@
 package com.melabsinthiatum
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 import android.widget.TextView
 
 actual class Sample {
@@ -11,6 +11,7 @@ actual class Sample {
 actual object Platform {
     actual val name: String = "Android"
 }
+actual typealias Platform2 = Platform
 
 class MainActivity7 : AppCompatActivity() {
 

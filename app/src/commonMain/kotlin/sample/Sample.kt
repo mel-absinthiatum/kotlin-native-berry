@@ -8,6 +8,10 @@ expect object Platform {
     val name: String
 }
 
+expect object Platform2 {
+    val name: String
+}
+
 fun hello(): String = "Hello from ${Platform.name}"
 
 class Proxy {
